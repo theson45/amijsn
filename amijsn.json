@@ -21,6 +21,17 @@
       "lisans": "full",
       "lisans_baslangic": "10.02.2024",
       "lisans_son": "15.02.2024"
+    },
+    {
+      "username": "a",
+      "pass": "1",
+      "ad": "Ahmet Efe",
+      "soyad": "Ersoy",
+      "yas": 28,
+      "eposta": "ahmetefem4489@mail.com",
+      "lisans": "full",
+      "lisans_baslangic": "10.02.2024",
+      "lisans_son": "15.03.2024"
     }
   ]
 }
