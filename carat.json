@@ -1,1 +1,10 @@
-
+{
+  "users": [
+    {
+      "key": "adil",
+      "lisans": "trial",
+      "lisans_baslangic": "20.02.2024",
+      "lisans_son": "10.03.2024"
+    }
+  ]
+}
