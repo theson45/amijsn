@@ -1,0 +1,17 @@
+{
+  "pages": [
+    {
+      "page_count": "1",
+      "page_1_name": "Deneme Başlık"
+    }
+  ],
+  "page_1": [
+    {
+      "control_1_name": "lbl_1",
+      "control_1_type": "Label",
+      "control_1_text":"Deneme Label",
+      "control_1_task":"Click:: Set_Text='Merhaba';;",
+      "control_1_location":"0;0"
+    }
+  ]
+}
